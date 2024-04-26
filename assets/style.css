@@ -350,4 +350,19 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
-
+footer {
+	background-color: #1C6474;
+	padding-block: 2em;
+	color: white;
+	text-align: center;
+	p {
+		a {
+			color: white;
+		}
+	}
+}
+address {
+	margin-bottom: 1rem;
+	font-style: normal;
+	line-height: inherit;
+}
